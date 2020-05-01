@@ -1,0 +1,9 @@
+{
+  "_default": {
+    "1": { "id": 0, "name": "SecureChat", "ip": "127.0.0.1", "port": 5555 },
+    "2": { "id": 1, "name": "test", "IP": "127.0.1.1", "passwd": "test" },
+    "3": { "id": 1, "name": "flo", "IP": "127.0.1.1", "passwd": "test" },
+    "4": { "ip": "127.0.1.1", "reason": "wrong password" },
+    "5": { "id": 1, "name": "hello", "IP": "127.0.1.1", "passwd": "hello" }
+  }
+}
